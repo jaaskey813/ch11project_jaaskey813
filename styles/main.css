@@ -1,0 +1,25 @@
+/* Johnathon Askey */
+/* November 1, 2026 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+}
+
+h1 {
+    color: #333333;
+}
+
+p {
+    color: #444444;
+    line-height: 1.6;
+}
